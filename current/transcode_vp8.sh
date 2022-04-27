@@ -1,1 +1,1 @@
-../2022/transcode_vp8-rec.sh
+../2022/transcode_vp8-crf33-minrates-sqrt-2pass.sh
